@@ -16,7 +16,7 @@ Last but not least it should be noted that this program was developed with peopl
 - JUnit 5
 
 ## How To Run
-You can import this project to your IDE of choice and you just need to add to the project's referenced libraries all the .jar files inside the bin folder of the freetts open source library, that you can download from here: [link](https://freetts.sourceforge.io/)
+You can import this project to your IDE of choice and you just need to add to the project's referenced libraries all the .jar files inside the bin folder of the freetts open source library, that you can download from [here](https://freetts.sourceforge.io/).
 
 ## Known Issues
 If you try to undo or redo the application of an encoding, you will need to double undo or double redo it, because the first time a blank space will appear at the place where the encoding was applied. This is due to the use of the setText method of the text area, that is setting the requested text to blank ("") before replacing it with the encoded one.
