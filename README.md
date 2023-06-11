@@ -1,7 +1,7 @@
 # Text To Speech Editor
 
 ## Description
-This program is a notepad developed in Java, with the additino of some new useful features, such as encoding some selected text and reading it out loud.
+This program is a notepad developed in Java, with the addition of some new useful features, such as encoding some selected text and reading it out loud.
 The basic editor's features include all the features a user expects from a notepad, from "New", "Open" and "Save As", to "Zoom In", "Zoom Out" and "Word Wrapping".
 On some of the more interesting features, the user can encode the whole text or just a selected word / sentence, using the Atbash or Rot13 encoding.
 The user can also request from the editor to read out loud the whole text or just a selected word / sentence.
